@@ -5,6 +5,8 @@
 
 ![a fuckin leaf](https://codeberg.org/an0n7/NetBSD-toaster/raw/branch/main/toaster1.jpg)
 
+<noscript>![NetBSD Toaster](https://laughingsquid.com/wp-content/uploads/2005/08/netbsd_toaster.jpg)</noscript>
+
 Yesterday at LinuxWorld 2005 I ran into [Jake Appelbaum](https://twitter.com/ioerror) and he mentioned that upstairs in up the .org Pavilion there was a toaster that was powered by [NetBSD](http://www.netbsd.org/) (the first open source version BSD, a Unix-like operating system). [John Mc](http://www.flickr.com/photos/laughingsquid/33239116/in/set-738298/) and I went up there and found the candy apple red toaster that was being controlled by NetBSD, and it actually made toast. The toaster even had a display that showed various output, including how many people had made toast so far that day. Jake surmised that they were using the same two pieces of bread over and over for the toast, so it probably wasn’t very good toast, but who cares, it was made by a NetBSD Toaster!
 
 The toaster was embedded with NetBSD by [Technologic Systems Designs](http://embeddedarm.com/) and they have a [full report](http://embeddedarm.com/news/netbsd_toaster.htm) on how they configured the toaster.
@@ -15,7 +17,3 @@ The idea behind this project was to show how easily NetBSD could be embedded in 
 
 > This toaster features a 4 line LCD, USB keyboard, 10/100 ethernet port and a RS232 serial port for the external console. The toaster’s internal circuit boards have been bypassed and routed through the CPU board allowing NetBSD complete control over the toaster’s features. A keyboard connects through a USB port on the side of the toaster and the 4×40 LCD displays a NetBSD/toaster login prompt. The burner element is also controlled by the TS-7200 via an internal relay. Unlike previous NetBSD toasters which were nothing more than a glorified PC case-mod, this toaster can actually toast bread!
 
-
-
-# Credit 
-https://laughingsquid.com/netbsd-toaster/
