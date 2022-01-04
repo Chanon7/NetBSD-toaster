@@ -3,8 +3,6 @@
 *   [Scott Beale](https://laughingsquid.com/author/scottbeale/ "Posts by Scott Beale")
 *   <time class="ct-meta-element-date" datetime="2005-08-11T15:23:29-04:00">August 11, 2005</time>
 
-![a fuckin leaf](https://codeberg.org/an0n7/NetBSD-toaster/raw/branch/main/toaster1.jpg)
-
 <noscript>![NetBSD Toaster](https://laughingsquid.com/wp-content/uploads/2005/08/netbsd_toaster.jpg)</noscript>
 
 Yesterday at LinuxWorld 2005 I ran into [Jake Appelbaum](https://twitter.com/ioerror) and he mentioned that upstairs in up the .org Pavilion there was a toaster that was powered by [NetBSD](http://www.netbsd.org/) (the first open source version BSD, a Unix-like operating system). [John Mc](http://www.flickr.com/photos/laughingsquid/33239116/in/set-738298/) and I went up there and found the candy apple red toaster that was being controlled by NetBSD, and it actually made toast. The toaster even had a display that showed various output, including how many people had made toast so far that day. Jake surmised that they were using the same two pieces of bread over and over for the toast, so it probably wasn’t very good toast, but who cares, it was made by a NetBSD Toaster!
